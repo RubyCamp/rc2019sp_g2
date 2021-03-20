@@ -5,8 +5,8 @@ RubyCamp2019Spring Group2 : CIS
 
 ## このゲームについて
 
-ピンボールとブロック崩しの合いの子です。
-![ゲーム中の画面](playing_scene.jpg)
+ピンボールとブロック崩しの合いの子です。  
+![ゲーム中の画面](playing_scene.jpg)  
 
 ## ゲームのルール
 
