@@ -1,6 +1,6 @@
 # rc2019sp_g2
 
-Corded by  
+Coded by  
 RubyCamp2019Spring Group2 : CIS  
 
 ## このゲームについて
